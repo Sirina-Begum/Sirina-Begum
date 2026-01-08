@@ -6,14 +6,14 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation"/>
 
 ### 🌟 About Me
-- 👩‍💻 Aspiring Developer / Student / [Your Current Role, e.g., Full-Stack Enthusiast]
-- 📍 From [Your City/Country, e.g., India]
-- 🌱 Currently learning [e.g., HTML, CSS, JavaScript, Python, React – add what you're working on]
+- 👩‍💻 Aspiring Developer /  Full-Stack Enthusiast]
+- 📍 From [Kalaburagi / India, e.g., India]
+- 🌱 Currently learning [ HTML, CSS, JavaScript, Python, React , Redux, Musql, C, Java, jdbc]
 - 🔭 Working on personal projects and building my portfolio
 - 👯 Open to collaborations on beginner-friendly/open-source projects
 - 💬 Ask me about [e.g., web development, coding tips, or anything you're passionate about]
-- 📫 How to reach me: [your.email@example.com] or LinkedIn
-- ⚡ Fun fact: [Something fun, e.g., "I love coffee and coding late at night ☕"]
+- 📫 How to reach me: [sirinab718@gmail.com] or LinkedIn
+- ⚡ Fun fact: ["I love coffee and coding late at night ☕"]
 
 ### 🛠️ Technologies & Tools
 <p align="left">
@@ -34,8 +34,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirina-Begum&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) <!-- Add your link -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirina-begum-37a800277/) <!-- Add your link -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirinab718@gmail.com)
 
 <!-- Optional: Visitor counter -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Sirina-Begum.Sirina-Begum" alt="Visitors"/>
